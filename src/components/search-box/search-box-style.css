@@ -1,0 +1,15 @@
+.search{
+    margin: 1rem;
+    width: 30%;
+    height: 45px;
+    border: none;
+    padding: 10px;
+    border-bottom: 1px solid grey;
+    font-size: 15px;
+
+}
+
+.search:focus, .search:hover {
+    border:none;
+    border-bottom: 1px solid grey;
+}
